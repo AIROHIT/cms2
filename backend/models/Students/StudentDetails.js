@@ -39,7 +39,7 @@ const studentDetails = new mongoose.Schema({
   },
   profile: {
     type: String,
-    required: true,
+    required: false,
   },
   timestamp: {
     type: Date,
