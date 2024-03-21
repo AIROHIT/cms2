@@ -12,7 +12,7 @@ The College Management System is a MERN Stack-based system with three different 
 **Database:** MongoDB
 
 
-Youtube Link: https://www.youtube.com/watch?v=LY4UhPadZCs&ab_channel=KrishJotaniya
+
 
 
 ## Student Features
